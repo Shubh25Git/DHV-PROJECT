@@ -1,0 +1,535 @@
+{
+  "2017": [
+    {
+      "category": "Overall",
+      "href": "OverallRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2017/OverallRanking.html"
+    },
+    {
+      "category": "Engineering",
+      "href": "EngineeringRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html"
+    },
+    {
+      "category": "Management",
+      "href": "ManagementRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2017/ManagementRanking.html"
+    },
+    {
+      "category": "University",
+      "href": "UniversityRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2017/UniversityRanking.html"
+    },
+    {
+      "category": "College",
+      "href": "CollegeRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2017/CollegeRanking.html"
+    },
+    {
+      "category": "Pharmacy",
+      "href": "PharmacyRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html"
+    }
+  ],
+  "2018": [
+    {
+      "category": "Overall",
+      "href": "OverallRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/OverallRanking.html"
+    },
+    {
+      "category": "University",
+      "href": "UniversityRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/UniversityRanking.html"
+    },
+    {
+      "category": "Engineering",
+      "href": "EngineeringRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/EngineeringRanking.html"
+    },
+    {
+      "category": "College",
+      "href": "CollegeRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/CollegeRanking.html"
+    },
+    {
+      "category": "Management",
+      "href": "ManagementRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/ManagementRanking.html"
+    },
+    {
+      "category": "Pharmacy",
+      "href": "PharmacyRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/PharmacyRanking.html"
+    },
+    {
+      "category": "Medical",
+      "href": "MedicalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/MedicalRanking.html"
+    },
+    {
+      "category": "Architecture",
+      "href": "ArchitectureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/ArchitectureRanking.html"
+    },
+    {
+      "category": "Law",
+      "href": "LawRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/LawRanking.html"
+    },
+    {
+      "category": "SpecialRank",
+      "href": "../../Rankings/2018/SpecialRank.html",
+      "url": "https://www.nirfindia.org/Rankings/2018/SpecialRank.html"
+    }
+  ],
+  "2019": [
+    {
+      "category": "Overall",
+      "href": "OverallRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2019/OverallRanking.html"
+    },
+    {
+      "category": "University",
+      "href": "UniversityRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2019/UniversityRanking.html"
+    },
+    {
+      "category": "Engineering",
+      "href": "EngineeringRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2019/EngineeringRanking.html"
+    },
+    {
+      "category": "College",
+      "href": "CollegeRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2019/CollegeRanking.html"
+    },
+    {
+      "category": "Management",
+      "href": "ManagementRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2019/ManagementRanking.html"
+    },
+    {
+      "category": "Pharmacy",
+      "href": "PharmacyRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2019/PharmacyRanking.html"
+    },
+    {
+      "category": "Law",
+      "href": "LawRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2019/LawRanking.html"
+    },
+    {
+      "category": "Architecture",
+      "href": "ArchitectureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2019/ArchitectureRanking.html"
+    },
+    {
+      "category": "Medical",
+      "href": "MedicalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2019/MedicalRanking.html"
+    }
+  ],
+  "2020": [
+    {
+      "category": "Overall",
+      "href": "OverallRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/OverallRanking.html"
+    },
+    {
+      "category": "University",
+      "href": "UniversityRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/UniversityRanking.html"
+    },
+    {
+      "category": "Engineering",
+      "href": "EngineeringRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/EngineeringRanking.html"
+    },
+    {
+      "category": "Management",
+      "href": "ManagementRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/ManagementRanking.html"
+    },
+    {
+      "category": "Pharmacy",
+      "href": "PharmacyRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/PharmacyRanking.html"
+    },
+    {
+      "category": "College",
+      "href": "CollegeRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/CollegeRanking.html"
+    },
+    {
+      "category": "Medical",
+      "href": "MedicalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/MedicalRanking.html"
+    },
+    {
+      "category": "Law",
+      "href": "LawRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/LawRanking.html"
+    },
+    {
+      "category": "Architecture",
+      "href": "ArchitectureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/ArchitectureRanking.html"
+    },
+    {
+      "category": "Dental",
+      "href": "DentalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2020/DentalRanking.html"
+    }
+  ],
+  "2021": [
+    {
+      "category": "Overall",
+      "href": "OverallRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/OverallRanking.html"
+    },
+    {
+      "category": "University",
+      "href": "UniversityRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/UniversityRanking.html"
+    },
+    {
+      "category": "Engineering",
+      "href": "EngineeringRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/EngineeringRanking.html"
+    },
+    {
+      "category": "Management",
+      "href": "ManagementRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/ManagementRanking.html"
+    },
+    {
+      "category": "Pharmacy",
+      "href": "PharmacyRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/PharmacyRanking.html"
+    },
+    {
+      "category": "College",
+      "href": "CollegeRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/CollegeRanking.html"
+    },
+    {
+      "category": "Medical",
+      "href": "MedicalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/MedicalRanking.html"
+    },
+    {
+      "category": "Law",
+      "href": "LawRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/LawRanking.html"
+    },
+    {
+      "category": "Architecture",
+      "href": "ArchitectureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/ArchitectureRanking.html"
+    },
+    {
+      "category": "Dental",
+      "href": "DentalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/DentalRanking.html"
+    },
+    {
+      "category": "Research",
+      "href": "ResearchRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2021/ResearchRanking.html"
+    }
+  ],
+  "2022": [
+    {
+      "category": "Overall",
+      "href": "OverallRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/OverallRanking.html"
+    },
+    {
+      "category": "University",
+      "href": "UniversityRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/UniversityRanking.html"
+    },
+    {
+      "category": "College",
+      "href": "CollegeRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/CollegeRanking.html"
+    },
+    {
+      "category": "Research",
+      "href": "ResearchRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/ResearchRanking.html"
+    },
+    {
+      "category": "Engineering",
+      "href": "EngineeringRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html"
+    },
+    {
+      "category": "Management",
+      "href": "ManagementRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/ManagementRanking.html"
+    },
+    {
+      "category": "Pharmacy",
+      "href": "PharmacyRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/PharmacyRanking.html"
+    },
+    {
+      "category": "Medical",
+      "href": "MedicalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/MedicalRanking.html"
+    },
+    {
+      "category": "Dental",
+      "href": "DentalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/DentalRanking.html"
+    },
+    {
+      "category": "Law",
+      "href": "LawRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/LawRanking.html"
+    },
+    {
+      "category": "Architecture",
+      "href": "ArchitectureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2022/ArchitectureRanking.html"
+    }
+  ],
+  "2023": [
+    {
+      "category": "Overall",
+      "href": "OverallRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/OverallRanking.html"
+    },
+    {
+      "category": "University",
+      "href": "UniversityRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/UniversityRanking.html"
+    },
+    {
+      "category": "College",
+      "href": "CollegeRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/CollegeRanking.html"
+    },
+    {
+      "category": "Research",
+      "href": "ResearchRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/ResearchRanking.html"
+    },
+    {
+      "category": "Engineering",
+      "href": "EngineeringRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/EngineeringRanking.html"
+    },
+    {
+      "category": "Management",
+      "href": "ManagementRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/ManagementRanking.html"
+    },
+    {
+      "category": "Pharmacy",
+      "href": "PharmacyRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/PharmacyRanking.html"
+    },
+    {
+      "category": "Medical",
+      "href": "MedicalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/MedicalRanking.html"
+    },
+    {
+      "category": "Dental",
+      "href": "DentalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/DentalRanking.html"
+    },
+    {
+      "category": "Law",
+      "href": "LawRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/LawRanking.html"
+    },
+    {
+      "category": "Architecture",
+      "href": "ArchitectureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/ArchitectureRanking.html"
+    },
+    {
+      "category": "Agriculture",
+      "href": "AgricultureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/AgricultureRanking.html"
+    },
+    {
+      "category": "Innovation",
+      "href": "InnovationRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2023/InnovationRanking.html"
+    }
+  ],
+  "2024": [
+    {
+      "category": "Overall",
+      "href": "OverallRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/OverallRanking.html"
+    },
+    {
+      "category": "University",
+      "href": "UniversityRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/UniversityRanking.html"
+    },
+    {
+      "category": "College",
+      "href": "CollegeRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/CollegeRanking.html"
+    },
+    {
+      "category": "Research",
+      "href": "ResearchRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/ResearchRanking.html"
+    },
+    {
+      "category": "Engineering",
+      "href": "EngineeringRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/EngineeringRanking.html"
+    },
+    {
+      "category": "Management",
+      "href": "ManagementRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/ManagementRanking.html"
+    },
+    {
+      "category": "Pharmacy",
+      "href": "PharmacyRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/PharmacyRanking.html"
+    },
+    {
+      "category": "Medical",
+      "href": "MedicalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/MedicalRanking.html"
+    },
+    {
+      "category": "Dental",
+      "href": "DentalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/DentalRanking.html"
+    },
+    {
+      "category": "Law",
+      "href": "LawRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/LawRanking.html"
+    },
+    {
+      "category": "Architecture",
+      "href": "ArchitectureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/ArchitectureRanking.html"
+    },
+    {
+      "category": "Agriculture",
+      "href": "AgricultureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/AgricultureRanking.html"
+    },
+    {
+      "category": "Innovation",
+      "href": "InnovationRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/InnovationRanking.html"
+    },
+    {
+      "category": "OPENUNIVERSITY",
+      "href": "OPENUNIVERSITYRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/OPENUNIVERSITYRanking.html"
+    },
+    {
+      "category": "SKILLUNIVERSITY",
+      "href": "SKILLUNIVERSITYRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/SKILLUNIVERSITYRanking.html"
+    },
+    {
+      "category": "STATEPUBLICUNIVERSITY",
+      "href": "STATEPUBLICUNIVERSITYRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2024/STATEPUBLICUNIVERSITYRanking.html"
+    }
+  ],
+  "2025": [
+    {
+      "category": "Overall",
+      "href": "OverallRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/OverallRanking.html"
+    },
+    {
+      "category": "University",
+      "href": "UniversityRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/UniversityRanking.html"
+    },
+    {
+      "category": "College",
+      "href": "CollegeRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/CollegeRanking.html"
+    },
+    {
+      "category": "Research",
+      "href": "ResearchRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/ResearchRanking.html"
+    },
+    {
+      "category": "Engineering",
+      "href": "EngineeringRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    },
+    {
+      "category": "Management",
+      "href": "ManagementRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/ManagementRanking.html"
+    },
+    {
+      "category": "Pharmacy",
+      "href": "PharmacyRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/PharmacyRanking.html"
+    },
+    {
+      "category": "Medical",
+      "href": "MedicalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/MedicalRanking.html"
+    },
+    {
+      "category": "Dental",
+      "href": "DentalRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/DentalRanking.html"
+    },
+    {
+      "category": "Law",
+      "href": "LawRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/LawRanking.html"
+    },
+    {
+      "category": "Architecture",
+      "href": "ArchitectureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/ArchitectureRanking.html"
+    },
+    {
+      "category": "Agriculture",
+      "href": "AgricultureRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/AgricultureRanking.html"
+    },
+    {
+      "category": "Innovation",
+      "href": "InnovationRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/InnovationRanking.html"
+    },
+    {
+      "category": "OPENUNIVERSITY",
+      "href": "OPENUNIVERSITYRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/OPENUNIVERSITYRanking.html"
+    },
+    {
+      "category": "SKILLUNIVERSITY",
+      "href": "SKILLUNIVERSITYRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/SKILLUNIVERSITYRanking.html"
+    },
+    {
+      "category": "STATEPUBLICUNIVERSITY",
+      "href": "STATEPUBLICUNIVERSITYRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/STATEPUBLICUNIVERSITYRanking.html"
+    },
+    {
+      "category": "SDGInstitutions",
+      "href": "SDGInstitutionsRanking.html",
+      "url": "https://www.nirfindia.org/Rankings/2025/SDGInstitutionsRanking.html"
+    }
+  ]
+}

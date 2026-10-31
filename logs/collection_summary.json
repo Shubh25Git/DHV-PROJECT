@@ -1,0 +1,723 @@
+[
+  {
+    "year": 2017,
+    "category": "Overall",
+    "url": "https://www.nirfindia.org/Rankings/2017/OverallRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2017,
+    "category": "Engineering",
+    "url": "https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2017,
+    "category": "Management",
+    "url": "https://www.nirfindia.org/Rankings/2017/ManagementRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2017,
+    "category": "University",
+    "url": "https://www.nirfindia.org/Rankings/2017/UniversityRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2017,
+    "category": "College",
+    "url": "https://www.nirfindia.org/Rankings/2017/CollegeRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2017,
+    "category": "Pharmacy",
+    "url": "https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2018,
+    "category": "Overall",
+    "url": "https://www.nirfindia.org/Rankings/2018/OverallRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2018,
+    "category": "University",
+    "url": "https://www.nirfindia.org/Rankings/2018/UniversityRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2018,
+    "category": "Engineering",
+    "url": "https://www.nirfindia.org/Rankings/2018/EngineeringRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2018,
+    "category": "College",
+    "url": "https://www.nirfindia.org/Rankings/2018/CollegeRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2018,
+    "category": "Management",
+    "url": "https://www.nirfindia.org/Rankings/2018/ManagementRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2018,
+    "category": "Pharmacy",
+    "url": "https://www.nirfindia.org/Rankings/2018/PharmacyRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2018,
+    "category": "Medical",
+    "url": "https://www.nirfindia.org/Rankings/2018/MedicalRanking.html",
+    "status": "Success",
+    "records": 25
+  },
+  {
+    "year": 2018,
+    "category": "Architecture",
+    "url": "https://www.nirfindia.org/Rankings/2018/ArchitectureRanking.html",
+    "status": "Success",
+    "records": 10
+  },
+  {
+    "year": 2018,
+    "category": "Law",
+    "url": "https://www.nirfindia.org/Rankings/2018/LawRanking.html",
+    "status": "Success",
+    "records": 10
+  },
+  {
+    "year": 2018,
+    "category": "SpecialRank",
+    "url": "https://www.nirfindia.org/Rankings/2018/SpecialRank.html",
+    "status": "No table records found",
+    "records": 0
+  },
+  {
+    "year": 2019,
+    "category": "Overall",
+    "url": "https://www.nirfindia.org/Rankings/2019/OverallRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2019,
+    "category": "University",
+    "url": "https://www.nirfindia.org/Rankings/2019/UniversityRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2019,
+    "category": "Engineering",
+    "url": "https://www.nirfindia.org/Rankings/2019/EngineeringRanking.html",
+    "status": "Success",
+    "records": 200
+  },
+  {
+    "year": 2019,
+    "category": "College",
+    "url": "https://www.nirfindia.org/Rankings/2019/CollegeRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2019,
+    "category": "Management",
+    "url": "https://www.nirfindia.org/Rankings/2019/ManagementRanking.html",
+    "status": "Success",
+    "records": 75
+  },
+  {
+    "year": 2019,
+    "category": "Pharmacy",
+    "url": "https://www.nirfindia.org/Rankings/2019/PharmacyRanking.html",
+    "status": "Success",
+    "records": 75
+  },
+  {
+    "year": 2019,
+    "category": "Law",
+    "url": "https://www.nirfindia.org/Rankings/2019/LawRanking.html",
+    "status": "Success",
+    "records": 15
+  },
+  {
+    "year": 2019,
+    "category": "Architecture",
+    "url": "https://www.nirfindia.org/Rankings/2019/ArchitectureRanking.html",
+    "status": "Success",
+    "records": 15
+  },
+  {
+    "year": 2019,
+    "category": "Medical",
+    "url": "https://www.nirfindia.org/Rankings/2019/MedicalRanking.html",
+    "status": "Success",
+    "records": 30
+  },
+  {
+    "year": 2020,
+    "category": "Overall",
+    "url": "https://www.nirfindia.org/Rankings/2020/OverallRanking.html",
+    "status": "Success",
+    "records": 101
+  },
+  {
+    "year": 2020,
+    "category": "University",
+    "url": "https://www.nirfindia.org/Rankings/2020/UniversityRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2020,
+    "category": "Engineering",
+    "url": "https://www.nirfindia.org/Rankings/2020/EngineeringRanking.html",
+    "status": "Success",
+    "records": 200
+  },
+  {
+    "year": 2020,
+    "category": "Management",
+    "url": "https://www.nirfindia.org/Rankings/2020/ManagementRanking.html",
+    "status": "Success",
+    "records": 75
+  },
+  {
+    "year": 2020,
+    "category": "Pharmacy",
+    "url": "https://www.nirfindia.org/Rankings/2020/PharmacyRanking.html",
+    "status": "Success",
+    "records": 75
+  },
+  {
+    "year": 2020,
+    "category": "College",
+    "url": "https://www.nirfindia.org/Rankings/2020/CollegeRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2020,
+    "category": "Medical",
+    "url": "https://www.nirfindia.org/Rankings/2020/MedicalRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2020,
+    "category": "Law",
+    "url": "https://www.nirfindia.org/Rankings/2020/LawRanking.html",
+    "status": "Success",
+    "records": 20
+  },
+  {
+    "year": 2020,
+    "category": "Architecture",
+    "url": "https://www.nirfindia.org/Rankings/2020/ArchitectureRanking.html",
+    "status": "Success",
+    "records": 20
+  },
+  {
+    "year": 2020,
+    "category": "Dental",
+    "url": "https://www.nirfindia.org/Rankings/2020/DentalRanking.html",
+    "status": "Success",
+    "records": 30
+  },
+  {
+    "year": 2021,
+    "category": "Overall",
+    "url": "https://www.nirfindia.org/Rankings/2021/OverallRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2021,
+    "category": "University",
+    "url": "https://www.nirfindia.org/Rankings/2021/UniversityRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2021,
+    "category": "Engineering",
+    "url": "https://www.nirfindia.org/Rankings/2021/EngineeringRanking.html",
+    "status": "Success",
+    "records": 200
+  },
+  {
+    "year": 2021,
+    "category": "Management",
+    "url": "https://www.nirfindia.org/Rankings/2021/ManagementRanking.html",
+    "status": "Success",
+    "records": 75
+  },
+  {
+    "year": 2021,
+    "category": "Pharmacy",
+    "url": "https://www.nirfindia.org/Rankings/2021/PharmacyRanking.html",
+    "status": "Success",
+    "records": 75
+  },
+  {
+    "year": 2021,
+    "category": "College",
+    "url": "https://www.nirfindia.org/Rankings/2021/CollegeRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2021,
+    "category": "Medical",
+    "url": "https://www.nirfindia.org/Rankings/2021/MedicalRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2021,
+    "category": "Law",
+    "url": "https://www.nirfindia.org/Rankings/2021/LawRanking.html",
+    "status": "Success",
+    "records": 30
+  },
+  {
+    "year": 2021,
+    "category": "Architecture",
+    "url": "https://www.nirfindia.org/Rankings/2021/ArchitectureRanking.html",
+    "status": "Success",
+    "records": 25
+  },
+  {
+    "year": 2021,
+    "category": "Dental",
+    "url": "https://www.nirfindia.org/Rankings/2021/DentalRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2021,
+    "category": "Research",
+    "url": "https://www.nirfindia.org/Rankings/2021/ResearchRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2022,
+    "category": "Overall",
+    "url": "https://www.nirfindia.org/Rankings/2022/OverallRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2022,
+    "category": "University",
+    "url": "https://www.nirfindia.org/Rankings/2022/UniversityRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2022,
+    "category": "College",
+    "url": "https://www.nirfindia.org/Rankings/2022/CollegeRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2022,
+    "category": "Research",
+    "url": "https://www.nirfindia.org/Rankings/2022/ResearchRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2022,
+    "category": "Engineering",
+    "url": "https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html",
+    "status": "Success",
+    "records": 200
+  },
+  {
+    "year": 2022,
+    "category": "Management",
+    "url": "https://www.nirfindia.org/Rankings/2022/ManagementRanking.html",
+    "status": "Success",
+    "records": 101
+  },
+  {
+    "year": 2022,
+    "category": "Pharmacy",
+    "url": "https://www.nirfindia.org/Rankings/2022/PharmacyRanking.html",
+    "status": "Success",
+    "records": 101
+  },
+  {
+    "year": 2022,
+    "category": "Medical",
+    "url": "https://www.nirfindia.org/Rankings/2022/MedicalRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2022,
+    "category": "Dental",
+    "url": "https://www.nirfindia.org/Rankings/2022/DentalRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2022,
+    "category": "Law",
+    "url": "https://www.nirfindia.org/Rankings/2022/LawRanking.html",
+    "status": "Success",
+    "records": 30
+  },
+  {
+    "year": 2022,
+    "category": "Architecture",
+    "url": "https://www.nirfindia.org/Rankings/2022/ArchitectureRanking.html",
+    "status": "Success",
+    "records": 30
+  },
+  {
+    "year": 2023,
+    "category": "Overall",
+    "url": "https://www.nirfindia.org/Rankings/2023/OverallRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2023,
+    "category": "University",
+    "url": "https://www.nirfindia.org/Rankings/2023/UniversityRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2023,
+    "category": "College",
+    "url": "https://www.nirfindia.org/Rankings/2023/CollegeRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2023,
+    "category": "Research",
+    "url": "https://www.nirfindia.org/Rankings/2023/ResearchRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2023,
+    "category": "Engineering",
+    "url": "https://www.nirfindia.org/Rankings/2023/EngineeringRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2023,
+    "category": "Management",
+    "url": "https://www.nirfindia.org/Rankings/2023/ManagementRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2023,
+    "category": "Pharmacy",
+    "url": "https://www.nirfindia.org/Rankings/2023/PharmacyRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2023,
+    "category": "Medical",
+    "url": "https://www.nirfindia.org/Rankings/2023/MedicalRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2023,
+    "category": "Dental",
+    "url": "https://www.nirfindia.org/Rankings/2023/DentalRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2023,
+    "category": "Law",
+    "url": "https://www.nirfindia.org/Rankings/2023/LawRanking.html",
+    "status": "Success",
+    "records": 30
+  },
+  {
+    "year": 2023,
+    "category": "Architecture",
+    "url": "https://www.nirfindia.org/Rankings/2023/ArchitectureRanking.html",
+    "status": "Success",
+    "records": 30
+  },
+  {
+    "year": 2023,
+    "category": "Agriculture",
+    "url": "https://www.nirfindia.org/Rankings/2023/AgricultureRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2023,
+    "category": "Innovation",
+    "url": "https://www.nirfindia.org/Rankings/2023/InnovationRanking.html",
+    "status": "No table records found",
+    "records": 0
+  },
+  {
+    "year": 2024,
+    "category": "Overall",
+    "url": "https://www.nirfindia.org/Rankings/2024/OverallRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2024,
+    "category": "University",
+    "url": "https://www.nirfindia.org/Rankings/2024/UniversityRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2024,
+    "category": "College",
+    "url": "https://www.nirfindia.org/Rankings/2024/CollegeRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2024,
+    "category": "Research",
+    "url": "https://www.nirfindia.org/Rankings/2024/ResearchRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2024,
+    "category": "Engineering",
+    "url": "https://www.nirfindia.org/Rankings/2024/EngineeringRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2024,
+    "category": "Management",
+    "url": "https://www.nirfindia.org/Rankings/2024/ManagementRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2024,
+    "category": "Pharmacy",
+    "url": "https://www.nirfindia.org/Rankings/2024/PharmacyRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2024,
+    "category": "Medical",
+    "url": "https://www.nirfindia.org/Rankings/2024/MedicalRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2024,
+    "category": "Dental",
+    "url": "https://www.nirfindia.org/Rankings/2024/DentalRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2024,
+    "category": "Law",
+    "url": "https://www.nirfindia.org/Rankings/2024/LawRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2024,
+    "category": "Architecture",
+    "url": "https://www.nirfindia.org/Rankings/2024/ArchitectureRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2024,
+    "category": "Agriculture",
+    "url": "https://www.nirfindia.org/Rankings/2024/AgricultureRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2024,
+    "category": "Innovation",
+    "url": "https://www.nirfindia.org/Rankings/2024/InnovationRanking.html",
+    "status": "No table records found",
+    "records": 0
+  },
+  {
+    "year": 2024,
+    "category": "OPENUNIVERSITY",
+    "url": "https://www.nirfindia.org/Rankings/2024/OPENUNIVERSITYRanking.html",
+    "status": "No table records found",
+    "records": 0
+  },
+  {
+    "year": 2024,
+    "category": "SKILLUNIVERSITY",
+    "url": "https://www.nirfindia.org/Rankings/2024/SKILLUNIVERSITYRanking.html",
+    "status": "No table records found",
+    "records": 0
+  },
+  {
+    "year": 2024,
+    "category": "STATEPUBLICUNIVERSITY",
+    "url": "https://www.nirfindia.org/Rankings/2024/STATEPUBLICUNIVERSITYRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2025,
+    "category": "Overall",
+    "url": "https://www.nirfindia.org/Rankings/2025/OverallRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2025,
+    "category": "University",
+    "url": "https://www.nirfindia.org/Rankings/2025/UniversityRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2025,
+    "category": "College",
+    "url": "https://www.nirfindia.org/Rankings/2025/CollegeRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2025,
+    "category": "Research",
+    "url": "https://www.nirfindia.org/Rankings/2025/ResearchRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2025,
+    "category": "Engineering",
+    "url": "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2025,
+    "category": "Management",
+    "url": "https://www.nirfindia.org/Rankings/2025/ManagementRanking.html",
+    "status": "Success",
+    "records": 100
+  },
+  {
+    "year": 2025,
+    "category": "Pharmacy",
+    "url": "https://www.nirfindia.org/Rankings/2025/PharmacyRanking.html",
+    "status": "Success",
+    "records": 101
+  },
+  {
+    "year": 2025,
+    "category": "Medical",
+    "url": "https://www.nirfindia.org/Rankings/2025/MedicalRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2025,
+    "category": "Dental",
+    "url": "https://www.nirfindia.org/Rankings/2025/DentalRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2025,
+    "category": "Law",
+    "url": "https://www.nirfindia.org/Rankings/2025/LawRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2025,
+    "category": "Architecture",
+    "url": "https://www.nirfindia.org/Rankings/2025/ArchitectureRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2025,
+    "category": "Agriculture",
+    "url": "https://www.nirfindia.org/Rankings/2025/AgricultureRanking.html",
+    "status": "Success",
+    "records": 40
+  },
+  {
+    "year": 2025,
+    "category": "Innovation",
+    "url": "https://www.nirfindia.org/Rankings/2025/InnovationRanking.html",
+    "status": "No table records found",
+    "records": 0
+  },
+  {
+    "year": 2025,
+    "category": "OPENUNIVERSITY",
+    "url": "https://www.nirfindia.org/Rankings/2025/OPENUNIVERSITYRanking.html",
+    "status": "No table records found",
+    "records": 0
+  },
+  {
+    "year": 2025,
+    "category": "SKILLUNIVERSITY",
+    "url": "https://www.nirfindia.org/Rankings/2025/SKILLUNIVERSITYRanking.html",
+    "status": "No table records found",
+    "records": 0
+  },
+  {
+    "year": 2025,
+    "category": "STATEPUBLICUNIVERSITY",
+    "url": "https://www.nirfindia.org/Rankings/2025/STATEPUBLICUNIVERSITYRanking.html",
+    "status": "Success",
+    "records": 50
+  },
+  {
+    "year": 2025,
+    "category": "SDGInstitutions",
+    "url": "https://www.nirfindia.org/Rankings/2025/SDGInstitutionsRanking.html",
+    "status": "No table records found",
+    "records": 0
+  }
+]

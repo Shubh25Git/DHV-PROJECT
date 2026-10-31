@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Temporary data and logs
+logs/*.log
+*.tmp
+extracted_statement.txt
+clean_statement.txt
